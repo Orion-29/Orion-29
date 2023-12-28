@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **Cybersecurity, CEH, Ethical Hacking**
 
+- 📝 I regularly write articles on [https://medium.com/@adityajevlikar](https://medium.com/@adityajevlikar)
+
 - 💬 Ask me about **Security Solutions**
 
 - 📫 How to reach me **adityajevlikar@proton.me**
